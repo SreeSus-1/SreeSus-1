@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 ### 🛠️ Tech Stack
 **Languages:** Python, C++, JavaScript, Rust  
 **Frameworks:** FastAPI, LangChain, React, Codon  
-**Databases:** Pinecone, MongoDB, PostgreSQL  
 **Tools:** Git, Docker, VS Code, Jupyter, Hugging Face, OpenAI API  
 
 

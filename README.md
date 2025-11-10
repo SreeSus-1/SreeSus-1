@@ -32,9 +32,3 @@ Here are some ideas to get you started:
 
 ### 📫 How to reach me
 💼 [LinkedIn](https://www.linkedin.com/in/ramyasreek-vs/) 
-
-### ⚡ Fun fact  
-I love connecting AI systems with real-world logic — building *intelligent tools that think before they speak!* 🤖💬  
-
-
-⭐ *“Turning ideas into intelligent systems.”*  

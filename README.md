@@ -74,8 +74,9 @@
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SreeSus-1&theme=nightowl" />
+  <img src="https://streak-stats.demolab.com?user=SreeSus-1&theme=nightowl&hide_border=false" />
 </p>
+
 
 ## 🧩 Most Used Languages
 <p align="center">

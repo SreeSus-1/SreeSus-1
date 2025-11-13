@@ -2,7 +2,6 @@
 <h1 align="center">Hi, I'm Ramya 👋</h1>
 <h3 align="center">Building real-world AI Agents, RAG systems & GenAI apps</h3>
 
----
 
 ### 🚀 What I Build
 
@@ -12,7 +11,7 @@
 - 📊 **Data & Analytics** – Python, SQL, dashboards, experiment tracking  
 - ⚙️ **Backend & Dev Tools** – FastAPI, REST APIs, Docker, CI/CD basics
 
----
+
 
 ### 🧩 Featured Projects
 
@@ -24,7 +23,7 @@
 
 *(More projects coming soon – pinning them here as I ship 👇)*
 
----
+
 
 ### 👩‍💻 About Me
 
@@ -36,7 +35,7 @@
   - Multi-agent orchestration & tools
   - Better retrieval + safety for enterprise RAG
 
----
+
 
 ### 🛠 Tech Stack
 
@@ -55,7 +54,7 @@
 **Other:**  
 `Git` · `Linux` · `VS Code` · `Postman`
 
----
+
 
 ### 🌐 Find Me Online
 
@@ -63,6 +62,6 @@
 - 🐙 GitHub: [Your GitHub](https://github.com/your-username)  
 - ✉️ Reach me at: `your.email@example.com`
 
----
+
 
 > 🧪 Always learning, always shipping. If you’re working on AI Agents, RAG, or LLM infra and think I can help – let’s connect!

@@ -1,3 +1,10 @@
+<!-- Profile Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SreeSus-1&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://img.shields.io/github/followers/SreeSus-1?label=Followers&style=flat&color=blue" />
+  <img src="https://img.shields.io/github/stars/SreeSus-1?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=yellow" />
+</p>
+
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Ramya 👋</h1>
 <h3 align="center">Building real-world AI Agents, RAG systems & GenAI apps</h3>
@@ -59,3 +66,21 @@
 ### 🌐 Connect here on :
 [ LinkedIn ](https://www.linkedin.com/in/ramyasreek-vs/)  
 
+
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SreeSus-1&show_icons=true&theme=nightowl" />
+</p>
+
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SreeSus-1&theme=nightowl" />
+</p>
+
+## 🧩 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreeSus-1&layout=compact&theme=nightowl" />
+</p>

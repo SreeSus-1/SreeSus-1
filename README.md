@@ -25,10 +25,7 @@
 - 🔐 **RetrievAI – RBAC-aware RAG Chatbot**  
   Role-based access (Public/Internal/Private) with document-level security, FastAPI backend, TF-IDF + vector search, and chat UI.
 
-- 🕸️ **Concurrency Bug / Data-Race Visualizer**  
-  LLVM/Codon-based analysis to detect data races, build CSHBA-style graphs, and visualize thread interactions.
-
-*(More projects coming soon – pinning them here as I ship 👇)*
+*(More projects coming soon  👇)*
 
 
 

@@ -61,7 +61,4 @@
 - 💼 LinkedIn: [Your LinkedIn URL](https://www.linkedin.com/in/your-username)  
 - 🐙 GitHub: [Your GitHub](https://github.com/your-username)  
 - ✉️ Reach me at: `your.email@example.com`
-
-
-
-> 🧪 Always learning, always shipping. If you’re working on AI Agents, RAG, or LLM infra and think I can help – let’s connect!
+>/

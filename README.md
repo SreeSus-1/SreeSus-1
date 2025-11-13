@@ -1,34 +1,68 @@
-# 👋 Hi, I'm Ramya Sree  
+<!-- Profile Header -->
+<h1 align="center">Hi, I'm Ramya 👋</h1>
+<h3 align="center">Building real-world AI Agents, RAG systems & GenAI apps</h3>
 
-🎓 **Master’s in Computer Science** @ *Texas A&M University – Corpus Christi*  
-💡 Passionate about **Generative AI**, **Retrieval-Augmented Generation (RAG)**, and **Secure AI Systems** with **Role-Based Access Control (RBAC)**  
-🧠 Building projects that merge **LLMs**, **Vector Databases**, and **Backend Security Layers** for smarter and safer AI solutions.  
+---
 
+### 🚀 What I Build
 
-<!--
-**SreeSus-1/SreeSus-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤖 **AI Agents & Workflows** – multi-agent pipelines, tool-using agents, memory, evals  
+- 📚 **RAG Systems** – secure retrieval with **RBAC**, document-level sensitivity & chat UIs  
+- 🧠 **LLM Apps** – prompt engineering, function calling, evaluation & monitoring  
+- 📊 **Data & Analytics** – Python, SQL, dashboards, experiment tracking  
+- ⚙️ **Backend & Dev Tools** – FastAPI, REST APIs, Docker, CI/CD basics
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 Featured Projects
 
-### 🔭 I’m currently working on  
-- **RetrievAI** – an RBAC-enabled RAG Chatbot that provides context-aware responses based on document-level sensitivity.  
+- 🔐 **RetrievAI – RBAC-aware RAG Chatbot**  
+  Role-based access (Public/Internal/Private) with document-level security, FastAPI backend, TF-IDF + vector search, and chat UI.
 
+- 🕸️ **Concurrency Bug / Data-Race Visualizer**  
+  LLVM/Codon-based analysis to detect data races, build CSHBA-style graphs, and visualize thread interactions.
 
-### 🛠️ Tech Stack
-**Languages:** Python, Java  
-**Frameworks:** FastAPI, LangChain, React, Codon  
-**Tools:** Git, Docker, VS Code, Jupyter, Hugging Face, OpenAI API  
+*(More projects coming soon – pinning them here as I ship 👇)*
 
+---
 
-### 📫 How to reach me?
-💼 [LinkedIn](https://www.linkedin.com/in/ramyasreek-vs/) 
+### 👩‍💻 About Me
+
+- 🎓 **MS Computer Science** @ Texas A&M University – Corpus Christi  
+- 💡 Interested in **Generative AI, Agents, RAG, backend engineering & tooling**  
+- 📚 Always experimenting with **LLM evals, memory, and production-style patterns**  
+- 🌱 Currently deep-diving into:
+  - Agent Development Kits (ADK style workflows)
+  - Multi-agent orchestration & tools
+  - Better retrieval + safety for enterprise RAG
+
+---
+
+### 🛠 Tech Stack
+
+**Languages:**  
+`Python` · `JavaScript` · `C++` · `SQL`
+
+**AI / ML:**  
+`OpenAI / Gemini APIs` · `LangChain-style tooling` · `Vector Stores` · `RAG`  
+
+**Backend & Infra:**  
+`FastAPI` · `Uvicorn` · `Docker` · `GitHub Actions (basic)`  
+
+**Data / Tools:**  
+`Pandas` · `NumPy` · `Matplotlib` · `Jupyter` · `Kaggle`  
+
+**Other:**  
+`Git` · `Linux` · `VS Code` · `Postman`
+
+---
+
+### 🌐 Find Me Online
+
+- 💼 LinkedIn: [Your LinkedIn URL](https://www.linkedin.com/in/your-username)  
+- 🐙 GitHub: [Your GitHub](https://github.com/your-username)  
+- ✉️ Reach me at: `your.email@example.com`
+
+---
+
+> 🧪 Always learning, always shipping. If you’re working on AI Agents, RAG, or LLM infra and think I can help – let’s connect!

@@ -56,7 +56,5 @@
 
 
 
-### 🌐 Find Me Online
-
-- 💼 LinkedIn: [ LinkedIn ](https://www.linkedin.com/in/ramyasreek-vs/)  
+### 🌐 [ LinkedIn ](https://www.linkedin.com/in/ramyasreek-vs/)  
 

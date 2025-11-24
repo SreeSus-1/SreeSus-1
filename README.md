@@ -6,7 +6,7 @@
 </p>
 
 <!-- Profile Header -->
-<h1 align="center">Hi, I'm Ramya 👋</h1>
+<h1 align="center">Hi, I'm Ramya Sree 👋</h1>
 <h3 align="center">Building real-world AI Agents, RAG systems & GenAI apps</h3>
 
 
